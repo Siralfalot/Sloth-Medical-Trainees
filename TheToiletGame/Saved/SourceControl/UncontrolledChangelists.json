@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Programming/Game jams/GlobalGameJam2024/Sloth-Medical-Trainees/TheToiletGame/Content/LevelPrototyping/MainMenu.umap",
+				"D:/Programming/Game jams/GlobalGameJam2024/Sloth-Medical-Trainees/TheToiletGame/Content/UI/MainMenu.uasset",
+				"D:/Programming/Game jams/GlobalGameJam2024/Sloth-Medical-Trainees/TheToiletGame/Content/UI/MainMenuPawn.uasset",
+				"D:/Programming/Game jams/GlobalGameJam2024/Sloth-Medical-Trainees/TheToiletGame/Content/UI/MainMenuGameMode.uasset",
+				"D:/Programming/Game jams/GlobalGameJam2024/Sloth-Medical-Trainees/TheToiletGame/Content/UI/MainMenuPlayerController.uasset",
 				"M:/GitHub/Sloth-Medical-Trainees/TheToiletGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
